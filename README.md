@@ -1,7 +1,7 @@
 Hi Everyone
 
 
-- 🔭 I’m currently working on Frontend developer
+- 🔭 I’m currently working as a Frontend developer
 
 My Portfolio : https://skandmishra.in
 
