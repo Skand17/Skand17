@@ -1,7 +1,7 @@
 <!-- Title Section -->
 <div align="center">
   <img src="header.png" alt="Header Image">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, Skand Mishra 👋</h1>
   <p>Passionate Software Engineer | Crafting Digital Experiences</p>
 </div>
 
