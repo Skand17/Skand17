@@ -107,6 +107,6 @@ I'm always interested in discussing new projects, innovative ideas, or opportuni
 
 *"The best way to predict the future is to build it."*
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/Skand17)
+⭐️ From [SKAND17](https://github.com/Skand17)
 
 </div>
