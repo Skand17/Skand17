@@ -1,48 +1,113 @@
-<!-- Title Section -->
+# Hi there, I'm Skand Mishra 👋
+
 <div align="center">
-  <img src="header.png" alt="Header Image">
-  <h1>Hi there, Skand Mishra 👋</h1>
-  <p>Passionate Software Engineer | Crafting Digital Experiences</p>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skand-mishra-065b74124/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </div>
 
-<!-- Badges -->
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/your-username?style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/your-twitter?style=social">
-</p>
-
-<!-- About Me Section -->
 ## 🚀 About Me
 
-I'm a <strong>results-driven Software Engineer</strong> with over <strong>5 years of experience</strong> in building exceptional web and mobile applications. My journey has led me to master the following technologies:
+I'm an **AI Engineer** and **Full Stack Developer** with **8 years** of hands-on experience building intelligent systems, scalable applications, and innovative solutions. I bridge the gap between cutting-edge AI/ML technologies and production-ready software, delivering end-to-end solutions that drive real business value.
 
-🌟 React | Next.js | React Native | HTML5 | CSS3 | Tailwind CSS | AWS | GCP
+### 💡 What Sets Me Apart
 
-I'm passionate about transforming complex problems into elegant solutions through <strong>clean code</strong> and <strong>user-centric design</strong>. My mission is to bring innovative ideas to life.
+- **Deep AI/ML Expertise**: From model development to deployment, I've worked across the entire ML lifecycle
+- **Full Stack Mastery**: Comfortable architecting and building systems from database to frontend
+- **Production-First Mindset**: I don't just build prototypes—I ship robust, scalable solutions
+- **8 Years of Battle-Tested Experience**: Worked across diverse domains, technologies, and team sizes
 
-<!-- Projects Section -->
-## 🛠️ Featured Projects
+## 🛠️ Technical Arsenal
 
-### 1. [Awesome React App](https://github.com/your-username/project1)
+### AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-📌 Brief Description: An interactive web application showcasing my React skills and design sensibilities.
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### 2. [Next.js E-Commerce](https://github.com/your-username/project2)
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-📌 Brief Description: An SEO-friendly e-commerce platform powered by Next.js and enriched with captivating UI/UX.
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-<!-- Connect Section -->
-## 🌐 Let's Connect
+## 💼 What I Can Help You With
 
-📧 Feel free to drop me an email at [your.email@example.com](mailto:your.email@example.com).
+### 🤖 AI/ML Solutions
+- Custom ML model development and training
+- Natural Language Processing (NLP) applications
+- Computer Vision systems
+- Recommendation engines
+- AI-powered automation
+- LLM integration and fine-tuning
+- MLOps and model deployment
 
-🔗 Visit my portfolio: [Portfolio Website](https://your-username.github.io)
+### 🌐 Full Stack Development
+- End-to-end web application development
+- RESTful API design and implementation
+- Microservices architecture
+- Real-time applications with WebSockets
+- Database design and optimization
+- Cloud infrastructure setup and DevOps
 
-🐦 Connect with me on Twitter: [@your-twitter](https://twitter.com/your-twitter)
+### 📊 Technical Leadership
+- System architecture and design
+- Technical roadmap planning
+- Code reviews and best practices
+- Team mentorship and training
+- Technology stack evaluation
 
-<!-- Footer -->
-<p align="center">
-  <img src="footer.png" alt="Footer Image">
-  <br>
-  Thanks for stopping by. Let's innovate, collaborate, and create wonders together!
-</p>
+## 🎯 Open for Consulting
+
+I'm currently available for consulting engagements, both short-term and long-term projects. Whether you're:
+
+- A startup looking to build your MVP with AI capabilities
+- An enterprise seeking to modernize legacy systems
+- A team that needs technical leadership and architecture guidance
+- A business wanting to integrate AI/ML into existing products
+
+**Let's talk!** I'm passionate about solving challenging problems and building solutions that make a real impact.
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skand17&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skand17&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing new projects, innovative ideas, or opportunities to contribute to interesting challenges.
+
+📧 **Email**: your.email@example.com  
+💼 **LinkedIn**: [Skand Mishra](https://www.linkedin.com/in/skand-mishra-065b74124/)  
+🌐 **Portfolio**: your-website.com *(optional)*
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/Skand17)
+
+</div>
