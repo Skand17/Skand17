@@ -98,9 +98,8 @@ I'm currently available for consulting engagements, both short-term and long-ter
 
 I'm always interested in discussing new projects, innovative ideas, or opportunities to contribute to interesting challenges.
 
-📧 **Email**: your.email@example.com  
+📧 **Email**: skandmishra370@gmail.com
 💼 **LinkedIn**: [Skand Mishra](https://www.linkedin.com/in/skand-mishra-065b74124/)  
-🌐 **Portfolio**: your-website.com *(optional)*
 
 ---
 
